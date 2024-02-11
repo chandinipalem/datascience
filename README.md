@@ -13,7 +13,8 @@ For an example of usage, see the [Berkeley Data 8 class](http://data8.org/).
 [![Coverage Status](https://coveralls.io/repos/data-8/datascience/badge.svg?branch=master&service=github)](https://coveralls.io/github/data-8/datascience?branch=master)
 
 ## Installing and Creating Jupyter Notebook
-pip install notebook 
+To Install notebook: pip install notebook 
+
 To run the notebook: jupyter notebook
 
 To Install via homebrew: brew install jupyterlab
